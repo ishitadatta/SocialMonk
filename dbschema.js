@@ -1,14 +1,14 @@
 let db = {
     users: [  
       {  
-        userId: 'dh23ggj5h32g543j5gf43',  
+        userId: 'JkrwARQD4T04tc3YOn6c',  
         email: 'user@email.com',  
         handle: 'user',  
-        createdAt: '2019-03-15T10:59:52.798Z',  
+        createdAt: 'June 17, 2020 at 12:00:00 AM UTC+5:30',  
         imageUrl: 'image/dsfsdkfghskdfgs/dgfdhfgdh',  
         bio: 'Hello, my name is user, nice to meet you',  
         website: 'https://user.com',  
-        location: 'Lonodn, UK'  
+        location: 'Bangalore, India'  
       }  
     ],  
     screams: [  
@@ -23,9 +23,9 @@ let db = {
     comments: [  
       {  
         userHandle: 'user',  
-        screamId: 'kdjsfgdksuufhgkdsufky',  
-        body: 'nice one mate!',  
-        createdAt: '2019-03-15T10:59:52.798Z'  
+        screamId: '5choG4ecMuxKNW51U0hX',  
+        body: 'nice one monk!',  
+        createdAt: 'June 17, 2020 at 1:00:00 AM UTC+5:30'  
       }  
     ],  
     notifications: [  
@@ -33,32 +33,32 @@ let db = {
         recipient: 'user',  
         sender: 'john',  
         read: 'true | false',  
-        screamId: 'kdjsfgdksuufhgkdsufky',  
+        screamId: '5choG4ecMuxKNW51U0hX',  
         type: 'like | comment',  
-        createdAt: '2019-03-15T10:59:52.798Z'  
+        createdAt: 'June 17, 2020 at 1:00:00 AM UTC+5:30'  
       }  
     ]  
   };
   const userDetails = {  
     // Redux data  
     credentials: {  
-      userId: 'N43KJ5H43KJHREW4J5H3JWMERHB',  
+      userId: 'JkrwARQD4T04tc3YOn6c',  
       email: 'user@email.com',  
       handle: 'user',  
-      createdAt: '2019-03-15T10:59:52.798Z',  
+      createdAt: 'June 17, 2020 at 1:00:00 AM UTC+5:30',  
       imageUrl: 'image/dsfsdkfghskdfgs/dgfdhfgdh',  
       bio: 'Hello, my name is user, nice to meet you',  
       website: 'https://user.com',
-      location: 'Lonodn, UK'  
+      location: 'Bangalore, India'  
     },  
     likes: [  
       {  
         userHandle: 'user',  
-        screamId: 'hh7O5oWfWucVzGbHH2pa'  
+        screamId: 'XDkXapWLpUPaV4aLhadP'  
       },  
       {  
         userHandle: 'user',  
-        screamId: '3IOnFoQexRcofs5OhBXO'  
+        screamId: '5choG4ecMuxKNW51U0hX'  
       }  
     ]  
   };
